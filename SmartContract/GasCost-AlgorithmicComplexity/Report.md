@@ -296,7 +296,7 @@ The complete implementation, test suite, and measurement scripts are available i
 ---
 
 **Report Generated**: Based on empirical measurements conducted using Hardhat framework  
-**Measurement Date**: November 2024  
+**Measurement Date**: November 2025  
 **Solidity Version**: 0.8.20  
 **EVM Target**: Paris
 
