@@ -9,3 +9,8 @@ typechain-types/
 gas-report.txt
 *.log
 
+# Media and presentation assets
+*.mp3
+Presentation.md
+Transcript.md
+
